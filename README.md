@@ -7,5 +7,3 @@
 - Paltform: MT6789
 - Manufacture: Infinix
 - Vndk target: 31
-# device_X6880_tree
-# device_X6880_tree
